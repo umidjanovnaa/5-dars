@@ -1,0 +1,156 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+header{
+    padding: 30px 0px;
+    background: rgb(245,245,245);
+}
+
+.header-title{
+    text-align: center;
+    font-size: 40px;
+    padding:10px 0px;
+   font-family: 'Roboto', sans-serif;;
+}
+
+.heard-text{
+font-weight: 100px;
+text-align: center;
+}
+
+.hedaer-img{
+    width: 100;
+    text-align: center;
+    margin: 30px 0px 0px 0px;
+    margin-top: 30px;
+}
+
+.img{
+    width: 700px;
+}
+
+.header-links{
+    text-align: center;
+    padding: 10pz 0px;
+}
+
+.products{
+    background: #6F2CFF;
+color: white;
+padding: 6px 20px;
+text-decoration: none;
+border-radius: 20px;
+}
+
+.demo{
+    color: #6F2CFF;
+background: white;
+padding: 6px 20px;
+text-decoration: none;
+border-radius: 20px;
+}
+
+.brands{
+    padding: 30px;
+}
+
+.cards{
+    text-align: center;
+    padding: 30px 0px;
+}
+
+.card{
+    width: 460px;
+    border-radius: 20px;
+    text-align: center;
+    background: rgb(218,217,217);
+    display: inline-block;
+    margin: 15px;
+}
+
+.card img{
+    width: 200px;
+}
+
+.card h3{
+    padding: 10px 0px;
+}
+
+.card p{
+    padding: 0px 20px 40px ;
+}
+
+.card2{
+    width: 460px;
+    border-radius: 20px;
+    text-align: center;
+    background: rgb(218,217,217);
+    display: inline-block;
+    margin: 15px;
+}
+
+.card2 img{
+    width: 200px;
+}
+
+.card2 h3{
+    padding: 10px 0px;
+}
+
+.card2 p{
+    padding: 0px 20px 40px;
+}
+
+.card3{
+    width: 460px;
+    border-radius: 20px;
+    text-align: center;
+    background:rgb(218,217,217);
+    display: inline-block;
+    margin: 15px;
+}
+
+.card3 img{
+    width: 200px;
+}
+
+.card h3{
+    padding: 10px 0px;
+}
+
+.card3 p{
+    padding: 0px 20px 40px;
+}
+
+.service{
+    padding: 30px 0px;
+    background: rgb(218,217,217);
+    
+}
+
+.box{
+    
+    display: inline-block;
+    background: rgb(23,0,46);
+    color: white;
+    width: 450px;
+    padding: 15px 20px 30px;
+    border-radius: 15px;
+    margin: 15px;
+  
+}
+
+.box img{
+    width: 30px;
+}
+
+.box p{
+ padding: 10px 0px;
+}
+
+.box-text{
+    border-bottom: 2px solid white;
+}
+
